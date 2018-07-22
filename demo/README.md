@@ -7,4 +7,4 @@ Here's some important information:
 * the grass is green!
 * elephants are not pink, contrary to popular belief
 
-Voila you've read it!
+The end.
