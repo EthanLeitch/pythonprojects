@@ -1,9 +1,19 @@
+INTRO
 What is Pusheen?
 Pusheen is a cute cat that bounces around a box on your screen (pygame) meowing!
 
-Version 2.0
-Last updated: 22 Jul 2018 16:37:18 NZST
+CREDITS
+Google Images, EthanLeitch (GitHub) https://github.com/EthanLeitch/ 
 
+ACKNOWLEDGMENTS
+Thanks to Google Images for providing images of cat.
+
+CHANGELOG
+Version 2.0
+Updated at: 22 Jul 2018 16:37:18 NZST
+Fixed "outside the screen" bug.
+
+INSTALL
 Thank you for installing Pusheen!
 Below are the instructions for setting up Pusheen.
 
@@ -32,4 +42,7 @@ STEP 2
 Open pusheen.py and run the python code.
 You can open and run it in any python code editor.
 
-Thanks for using Pusheen!
+COPYING
+All code in this project is avalible for use, however I would appreciate if
+you contact me before copying/editing this code. You can contact me at GitHub,
+my username is EthanLeitch. https://github.com/EthanLeitch/
