@@ -9,9 +9,12 @@ ACKNOWLEDGMENTS
 Thanks to Google Images for providing images of cat.
 
 CHANGELOG
-Version 2.0
-Updated at: 22 Jul 2018 16:37:18 NZST
-Fixed "outside the screen" bug.
+Version 1.2
+Updated at: 25 Jul 2018 19:12:38 NZST
+Fixed "pushhen meow" bug.
+
+Version 1.0
+Created at: 22 Jul 2018 16:37:18 NZST
 
 INSTALL
 Thank you for installing Pusheen!
