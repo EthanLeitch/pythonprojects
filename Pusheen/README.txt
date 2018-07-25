@@ -1,3 +1,8 @@
+Thanks for using Pusheen! 
+Check out my other projects at
+https://github.com/EthanLeitch/pythonprojects
+
+
 INTRO
 What is Pusheen?
 Pusheen is a cute cat that bounces around a box on your screen (pygame) meowing!
@@ -49,3 +54,17 @@ COPYING
 All code in this project is avalible for use, however I would appreciate if
 you contact me before copying/editing this code. You can contact me at GitHub,
 my username is EthanLeitch. https://github.com/EthanLeitch/
+
+BUG HISTORY
+Version 1.0
+"pusheen meow" bug
+Bug report:
+[When Pusheen bounced off the side twice, within a short space of time,
+the meow sound effects began to overlap.]
+The bug patch was released at 25 Jul 2018 19:12:38 NZST.
+
+
+Thanks for using Pusheen! 
+Check out my other projects at 
+https://github.com/EthanLeitch/pythonprojects
+
