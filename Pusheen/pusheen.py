@@ -1,4 +1,4 @@
-# ▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[Pusheen v2.0]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
+# ▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[Pusheen v1.2]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
 # ▍ Pusheen is a cute cat that bounces around your screen meowing! ▐
 # ▍ No practical use has been discovered for Pusheen yet...        ▐ 
 # ▍ Made by Ethan                                                  ▐
@@ -56,15 +56,19 @@ while running:
 
     if x + 125 > WIDTH:
         xspeed = -xspeed
+        catmeow.stop()
         catmeow.play()
     if y + 100 > HEIGHT:
         yspeed = -yspeed
+        catmeow.stop()
         catmeow.play()
     if x + 8 < 0:
         xspeed = -xspeed
+        catmeow.stop()
         catmeow.play()
     if y + 25 < 0:
         yspeed = -yspeed
+        catmeow.stop()
         catmeow.play()
 
     screen.fill(WHITE)
