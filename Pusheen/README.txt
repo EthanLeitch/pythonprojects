@@ -11,7 +11,7 @@ Thanks to Google Images for providing images of cat.
 CHANGELOG
 Version 1.2
 Updated at: 25 Jul 2018 19:12:38 NZST
-Fixed "pushhen meow" bug.
+Fixed "pusheen meow" bug.
 
 Version 1.0
 Created at: 22 Jul 2018 16:37:18 NZST
