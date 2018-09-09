@@ -25,9 +25,6 @@ INSTALL
 Thank you for installing Pusheen!
 Below are the instructions for setting up Pusheen.
 
-You have downloaded the Raspberry Pi version of Pusheen.
-The python code will only run on a Raspberry Pi.
-
 You should have downloaded all of this in a folder
 called "Pusheen".
 
