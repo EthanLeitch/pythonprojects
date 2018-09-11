@@ -1,7 +1,7 @@
 # pythonprojects
 All of my python projects, all in one place. 
 
-These are the python projects I have created.
+These are the python games/projects I have created.
 
 Pusheen v1.2<br/>
 Last updated: 25 Jul 2018 19:12:38 NZST<br/>
