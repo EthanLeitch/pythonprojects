@@ -2,7 +2,7 @@ Copyleft (ↄ)
 This repository and its contents were created by Ethan Leitch.
 You can contact him at <a href="https://www.github.com/EthanLeitch">github.com/EthanLeitch</a>
 
-If you redistribute/modify this code, please put a tick in the below boxes
+If you redistribute/modify this code, please put a tick in the below boxes</br>
 Modified: [ ]
 Redistributed: [ ]
 
