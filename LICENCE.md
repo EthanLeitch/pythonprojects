@@ -1,4 +1,4 @@
-Copyleft (ↄ) 
+Copyleft (ↄ) <br/>
 This repository and its contents were created by Ethan Leitch.
 You can contact him at <a href="https://www.github.com/EthanLeitch">github.com/EthanLeitch</a>
 
