@@ -15,11 +15,11 @@ Thanks to Google Images for providing images of cat.
 
 CHANGELOG
 Version 1.2
-Updated at: 25 Jul 2018 19:12:38 NZST
+Updated at: 25 Jul 2018 07:12:38 PM NZST
 Fixed "pusheen meow" bug.
 
 Version 1.0
-Created at: 22 Jul 2018 16:37:18 NZST
+Created at: 22 Jul 2018 04:37:18 PM NZST
 
 INSTALL
 Thank you for installing Pusheen!
@@ -41,7 +41,7 @@ pusheen.jpg
 
 pusheenmeow.jpg
 
-If all these files are there, then continue to step 2.
+If all these files are present, then continue to step 2.
 
 STEP 2
 Open pusheen.py and run the python code.
