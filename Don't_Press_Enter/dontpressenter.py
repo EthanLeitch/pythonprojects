@@ -61,7 +61,7 @@ if __name__ == "__main__":
     surf.fill(black)
     pygame.display.flip()
 
-    display_box(surf, "█")
+    display_box(surf, "...seriously?")
     time.sleep(2.3)
     if duration > HighScore:
         HighScore = duration
