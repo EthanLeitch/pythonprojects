@@ -11,9 +11,9 @@ import random, time, pygame, sys, copy
 from pygame.locals import *
 
 # Image preloads
-cat1 = pygame.image.load('/home/pi/Desktop/PythonProjects/Pusheen/Media/pusheen.jpg')
+cat1 = pygame.image.load("Media/pusheen.jpg")
 cat1 = pygame.transform.scale(cat1, (130, 130))
-cat2 = pygame.image.load('/home/pi/Desktop/PythonProjects/Pusheen/Media/pusheenmeow.jpg')
+cat2 = pygame.image.load("Media/pusheenmeow.jpg")
 cat2 = pygame.transform.scale(cat2, (130, 130))
 
 # Settings
@@ -43,7 +43,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Pusheen")
 clock = pygame.time.Clock()
 # Sound preloads
-catmeow = pygame.mixer.Sound('/home/pi/Desktop/PythonProjects/Pusheen/Media/catmeow2.ogg')
+catmeow = pygame.mixer.Sound("Media/catmeow2.ogg")
 # Exit controls
 running = True
 while running:
