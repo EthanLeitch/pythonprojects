@@ -1,13 +1,13 @@
-
-# ▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[Pusheen v1.2]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
-# ▍ Pusheen is a cute cat that bounces around your screen meowing! ▐
-# ▍ No practical use has been discovered for Pusheen yet...        ▐ 
-# ▍ Made by Ethan                                                  ▐
-# ▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
+# Pusheen is a cute cat that bounces around your screen, meowing.
 
 # SETUP
 # Imports list
-import random, time, pygame, sys, copy
+import copy
+import pygame
+import random
+import sys
+import time
+
 from pygame.locals import *
 
 # Image preloads
@@ -73,10 +73,8 @@ while running:
         catmeow.play()
 
     screen.fill(WHITE)
-    screen.blit(cat1,(x, y))
+    screen.blit(cat1, (x, y))
     pygame.display.flip()
-
-
 
     clock.tick(FPS)
 
@@ -85,5 +83,3 @@ pygame.quit()
 print("")
 print("You have closed Pusheen.")
 print("")
-
-# Thank you for using Pusheen! :)
