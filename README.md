@@ -1,9 +1,13 @@
+
 # pythonprojects
 Some small projects I made in Python.
 
-Pusheen<br/>
-Pusheen is a cute cat that bounces around your screen meowing.<br/><br/>
+Hangman
+*Python implementation of hangman.*
 
-Don't Press Enter<br/>
-Probably the worst game in the world. <br/>
+Pusheen
+*Pusheen is a cute cat that bounces around your screen, meowing.*
+
+Don't Press Enter
+*Probably the worst game in the world.*
 
